@@ -21,15 +21,15 @@ Requirments
   python3 -m venv .venv
   source .venv/bin/activate
 
---**Windows**
+- **Windows**
   ```bash
   py -m venv .venv
   .venv\Scripts\activate
 
 ### 4. Install dependencies
-```bash
-python -m pip install --upgrade pip
-pip install jupyter pandas numpy scikit-learn matplotlib requests beautifulsoup4
+  ```bash
+  python -m pip install --upgrade pip
+  pip install jupyter pandas numpy scikit-learn matplotlib requests beautifulsoup4
 
 
 
