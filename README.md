@@ -15,7 +15,7 @@ Requirments
    git clone https://github.com/Arshpatel10/NBA-Basketball-Match-Predictor.git
    cd NBA-Basketball-Match-Predictor
 
-### 3. Create & activate a virtual environment
+3. **Create & activate a virtual environment
 - **macOS/Linux**
   ```bash
   python3 -m venv .venv
@@ -26,11 +26,7 @@ Requirments
   py -m venv .venv
   .venv\Scripts\activate
 
-### 4. Install dependencies
+4. **Install dependencies
   ```bash
   python -m pip install --upgrade pip
   pip install jupyter pandas numpy scikit-learn matplotlib requests beautifulsoup4
-
-
-
-
